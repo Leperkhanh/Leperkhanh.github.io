@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "CLI PROJECT"
-date:       2020-06-06 19:11:30 +0000
+date:       2020-06-06 15:11:31 -0400
 permalink:  cli_project
 ---
 
 
-Following a month of the challenging educational program that Flatiron gives, we are at our first project that utilizes the information from the curriculum, to compose a CLI program that assembles data from an API. The API figures out that information permitting the client to make demands on. This was my opportunity to flaunt all that I have found out about Ruby and make the first application that is all my own. 
+Following over a month of the challenging educational program that Flatiron gives, we are at our first project that utilizes the information from the curriculum, to compose a CLI program that assembles data from an API. The API figures out that information permitting the client to make demands on. This was my opportunity to flaunt all that I have found out about Ruby and make the first application that is all my own. 
 
  
 
